@@ -2,7 +2,7 @@
 
 Workflow :
 
-        1.reserach/trils 
+        1.reserach/trials 
         2.config.yaml 
         3.entity 
         4.component 
